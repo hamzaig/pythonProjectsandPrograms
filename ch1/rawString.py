@@ -1,0 +1,1 @@
+print(r"hello /n my love")

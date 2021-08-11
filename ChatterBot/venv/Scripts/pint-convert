@@ -1,0 +1,4 @@
+#!"C:\Users\Aahil Seemab\Documents\Python Language\ChatterBot\venv\Scripts\python.exe"
+# EASY-INSTALL-SCRIPT: 'Pint==0.12','pint-convert'
+__requires__ = 'Pint==0.12'
+__import__('pkg_resources').run_script('Pint==0.12', 'pint-convert')

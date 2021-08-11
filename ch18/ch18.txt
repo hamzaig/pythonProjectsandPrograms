@@ -1,0 +1,4 @@
+In the previous video, we gave the
+mathematical definition of the cost function. 
+In this video, let's look at
+some examples, to get back to intuition about...

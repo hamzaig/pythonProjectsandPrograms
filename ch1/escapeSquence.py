@@ -1,0 +1,5 @@
+print("heelo \"my\" brother")
+print("heelo \'my\' brother")
+print("heelo \"my\" brother\nmylife")
+print("heelo \"my\" brother\tmylife")
+print("heelo \"my\" brr\bother\tmylife")
